@@ -1,0 +1,68 @@
+Design Rule Check Report
+------------------------
+
+Report File    : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\EKOBase (PCB - Design Rule Check Report).txt
+Report Written : Sunday, May 29, 2011
+Project Path   : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\EKOBase.prj
+Design Path    : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\EKOBase.pcb
+Design Title   : 
+Created        : 28/05/2011 14:42:59
+Last Saved     : 29/05/2011 18:45:47
+Editing Time   : 1270 min
+Units          : mm (precision 4)
+
+Results
+-------
+
+Pad to Silkscreen error (P-S) at (20.0225 46.3550) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (39.6675 51.7525) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (68.6000 44.1325) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (65.7025 31.7500) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Single pin net MMC2_DAT5 on J1.7 at 266.7000,222.8850
+Single pin net MMC2_DAT2 on J1.13 at 259.0800,222.8850
+Single pin net MMC2_DAT3 on J1.11 at 261.6200,222.8850
+Single pin net MMC2_CMD on J1.19 at 251.4600,222.8850
+Single pin net MMC2_DAT6 on J1.5 at 269.2400,222.8850
+Single pin net MMC2_CLKO on J1.21 at 248.9200,222.8850
+Single pin net MMC2_DAT0 on J1.17 at 254.0000,222.8850
+Single pin net MMC2_DAT1 on J1.15 at 256.5400,222.8850
+Single pin net MMC2_DAT7 on J1.3 at 271.7800,222.8850
+Single pin net MMC2_DAT4 on J1.9 at 264.1600,222.8850
+
+Number of errors found : 14
+
+Settings
+--------
+
+Spacings
+    Tracks                             Yes
+    Pads and Vias                      Yes
+    Shapes                             Yes
+    Text                               Yes
+    Board                              Yes
+    Drills                             Yes
+    Components                         Yes
+
+Manufacturing
+    Drill Breakout                     Yes
+    Drill Backoff                      Yes
+    Silkscreen Overlap                 Yes
+    Copper Text In Board               Yes
+    Min Track Width                    Yes
+    Min Annular Ring                   Yes
+    Min Paste Size                     Yes
+    Vias In Pads                       Yes
+    Unplated Vias                      Yes
+    Unplated Pads With Inner Tracks    Yes
+
+Nets
+    Net Completion                     Yes
+    Dangling Tracks                    Yes
+    Net Track Length Differences       No
+
+
+End Of Report.

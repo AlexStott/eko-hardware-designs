@@ -1,0 +1,43 @@
+Unconnected Pins Report
+-----------------------
+
+Report File    : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\UART (SCH - Unconnected Pins Report).txt
+Report Written : Saturday, May 28, 2011
+Project Path   : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\EKOBase.prj
+Design Path    : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\UART.sch
+Design Title   : 
+Created        : 
+Last Saved     : 28/05/2011 02:37:31
+Editing Time   : 1349 min
+Units          : thou (precision 2)
+
+Component U1  Pin 6  A4
+Component R4  Pin 3  
+Component R4  Pin 4  
+Component J1  Pin 1  
+Component J1  Pin 25  
+Component REF60  Pin 7  NC
+Component REF60  Pin 8  INT
+Component REF60  Pin 15  GP5
+Component U6  Pin 1  NC
+Component U6  Pin 4  NC
+Component U7  Pin 1  NC
+Component U7  Pin 4  NC
+Component U9  Pin 1  NC
+Component U9  Pin 4  NC
+Component CONN1  Pin P$1  1
+Component CONN1  Pin P$2  2
+Component CONN1  Pin P$3  3
+Component CONN1  Pin P$6  6
+Component CONN2  Pin P$1  1
+Component CONN2  Pin P$2  2
+Component CONN2  Pin P$3  3
+Component CONN2  Pin P$6  6
+Component U11  Pin 1  NC
+Component U11  Pin 4  NC
+Component U12  Pin 1  NC
+Component U12  Pin 4  NC
+
+Unconnected pins found : 26
+
+End Of Report.

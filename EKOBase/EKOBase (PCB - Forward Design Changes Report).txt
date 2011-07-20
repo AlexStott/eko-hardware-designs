@@ -1,0 +1,46 @@
+Forward Design Changes Report
+-----------------------------
+
+Report File    : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\EKOBase (PCB - Forward Design Changes Report).txt
+Report Written : Sunday, May 29, 2011
+Project Path   : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\EKOBase.prj
+Design Path    : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\EKOBase.pcb
+Design Title   : 
+Created        : 28/05/2011 14:42:59
+Last Saved     : 29/05/2011 16:58:44
+Editing Time   : 1165 min
+Units          : mm (precision 4)
+
+Changed value "Value" on component reference "R27" to "2.2K".
+
+Changed value "Value" on component reference "R28" to "2.2K".
+
+
+Added component reference "U17" of component "24AA04-X_SN", package "SOIC8-N_MC".
+Added component reference "C23" of component "0603YC104KATDA", package "SM0603".
+Added value "Value=0.1uF" to component reference "C23".
+
+Added component reference "R31" of component "R 0.063W SMTF 10K", package "SM0603".
+Added value "Value=2.2K" to component reference "R31".
+
+Added component reference "R57" of component "R 0.063W SMTF 10K", package "SM0603".
+Added value "Value=2.2K" to component reference "R57".
+
+
+Connected pin "U17.1" to net "0V".
+Connected pin "U17.2" to net "0V".
+Connected pin "U17.3" to net "0V".
+Connected pin "U17.4" to net "0V".
+Connected pin "U17.5" to net "I2C2_SDA".
+Connected pin "U17.6" to net "I2C2_SCL".
+Connected pin "U17.7" to net "0V".
+Connected pin "U17.8" to net "+1V8".
+Connected pin "C23.1" to net "0V".
+Connected pin "C23.2" to net "+1V8".
+Connected pin "R31.1" to net "I2C2_SCL".
+Connected pin "R31.2" to net "+1V8".
+Connected pin "R57.1" to net "I2C2_SDA".
+Connected pin "R57.2" to net "+1V8".
+
+
+End Of Report.

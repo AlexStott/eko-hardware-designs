@@ -1,0 +1,17 @@
+Dangling Connections Report
+---------------------------
+
+Report File    : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\SD_Card (SCH - Dangling Connections Report).txt
+Report Written : Saturday, May 28, 2011
+Project Path   : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\EKOBase.prj
+Design Path    : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\SD_Card.sch
+Design Title   : 
+Created        : 
+Last Saved     : 28/05/2011 14:42:00
+Editing Time   : 1607 min
+Units          : mil (precision 0)
+
+
+Dangling Tracks Found : 0
+
+End Of Report.

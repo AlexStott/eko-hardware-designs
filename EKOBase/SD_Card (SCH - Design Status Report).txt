@@ -1,0 +1,72 @@
+Design Status Report
+--------------------
+
+Report File    : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\SD_Card (SCH - Design Status Report).txt
+Report Written : Saturday, May 28, 2011
+Project Path   : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\EKOBase.prj
+Design Path    : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\SD_Card.sch
+Design Title   : 
+Created        : 
+Last Saved     : 28/05/2011 14:42:00
+Editing Time   : 1607 min
+Units          : mil (precision 0)
+
+Component List
+--------------
+Comp Type     Package      Components   Pins   Unused Gates
+
+SN74AVC4T774    SOIC            2       32       0      
+A4              MISC            6       0        6      
+0V                              34      34       0      
+FROM                            62      62       0      
+SDBMF           SDBMF-009XXBXX2 1       12       0      
++1V8                            12      12       0      
++3V3                            16      16       0      
+2mmElectrolyticCap DSC             1       2        0      
+TO                              26      26       0      
+R 0.1W SMTF 10K SM0805          31      62       0      
+06035C102KATDA  SM0603          6       12       0      
+R 0.063W SMTF 33 SM0603          12      24       0      
+28PIN2ROW2.54mmCON CONN            1       28       0      
+F-1X02-SIP-100-40 SIP-100-02-40   1       2        0      
++5V_ISO                         11      11       0      
+0V_ISO                          16      16       0      
+F-2X02-DIL-100  DIL-100-2X02    1       4        0      
++5V                             10      10       0      
+SM6T            SOD             5       10       0      
+MCP23008-X_SO   SOIC18-W_MC     1       18       0      
+PCA9306         DCT             1       8        0      
+R 0.063W SMTF 180K SM0603          2       4        0      
+F-1X04-SIP-100-40 SIP-100-04-40   1       4        0      
+74LVC1G07DBV    SOT23-5         4       16       0      
+LED_SMT         PLCC2           9       18       0      
+R 0.1W SMTF 560 SM0805          5       10       0      
+R 0.063W SMTF 10K SM0603          4       8        0      
+0603YC104KATDA  SM0603          9       18       0      
+TXS0102         DCU             2       16       0      
+6N137           DIP             5       40       0      
+MAX483ESA       SO-G8_1         1       8        0      
+1206YG225ZATEA  SM1206          8       16       0      
+LED_SMT_0603    0603            2       4        0      
+MHRJJ88NFRA     MHRJJ8NFRA      2       16       0      
+BD6517F         SOP             1       8        0      
+LM1117          SOT-223         2       6        0      
+TANTALUM_B      CASE_B          2       4        0      
+TANTALUM_C      CASE_C          2       4        0      
+
+Total:                          317     601      6      
+
+Total number of unused gates in the component bin 6.
+
+Net List
+--------
+Net Class     Nets
+
+Signal          91     
+Ground          1      
+Power           7      
+
+Total:          99     
+
+
+End Of Report.

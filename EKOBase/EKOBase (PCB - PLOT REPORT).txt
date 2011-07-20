@@ -1,0 +1,359 @@
+PLOT REPORT
+-----------
+
+Report File    : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\EKOBase (PCB - PLOT REPORT).txt
+Report Written : Sunday, May 29, 2011
+Project Path   : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\EKOBase.prj
+Design Path    : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\EKOBase.pcb
+Design Title   : 
+Created        : 28/05/2011 14:42:59
+Last Saved     : 29/05/2011 18:57:04
+Editing Time   : 1286 min
+Units          : mm (precision 4)
+
+DEVICE SETTINGS
+---------------
+
+---------------
+Gerber Settings
+---------------
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    2.3 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+--------------
+Drill Settings
+--------------
+
+    Excellon Format 1
+    Format 2.3 absolute in mm.
+    No zero suppression.
+
+
+PLOTS OUTPUT
+------------
+    Plot Job: "C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\EKOBase.mop"
+
+
+Gerber Output
+-------------
+
+    "C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\Gerber\EKOBase - Top Documentation.gbr"
+
+    Layers:
+    -------
+    Top Documentation
+    Board Outlines
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D10       Round 1
+    D11       Round 5
+
+
+Gerber Output
+-------------
+
+    "C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\Gerber\EKOBase - Top Silkscreen.gbr"
+
+    Layers:
+    -------
+    Top Silkscreen
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D10       Round 1
+    D11       Round 5
+    D12       Round 10
+    D13       Round 16
+    D14       Round 24
+    D15       Round 12
+    D16       Round 8
+    D17       Round 3
+    D18       Round 4
+    D19       Round 12
+    D70       Round 3
+    D71       Round 6
+    D20       Round 3
+    D21       Round 8
+    D22       Round 0
+    D23       Round 4
+    D24       Round 16
+
+
+Gerber Output
+-------------
+
+    "C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\Gerber\EKOBase - Top Copper.gbr"
+
+    Layers:
+    -------
+    Top Copper
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D12       Round 10
+    D14       Round 24
+    D16       Round 8
+    D25       Square 236
+    D26       Round 48
+    D27       Round 60
+    D28       Square 70
+    D29       Octagon 70
+    D72       Square 60
+    D73       Octagon 60
+    D74       Rectangle 22 X 78 Rotation 90
+    D75       Rectangle 16 X 36
+    D76       Rectangle 39 X 43
+    D77       Rectangle 27 X 39 Rotation 90
+    D78       Rectangle 161 X 163 Rotation 90
+    D79       Rectangle 51 X 60
+    D80       Rectangle 39 X 43 Rotation 90
+    D81       Rectangle 51 X 60 Rotation 90
+    D82       Oval 60 X 110 Rotation 90
+    D83       Rectangle 24 X 87
+    D84       Oval 60 X 110
+    D85       Rectangle 63 X 71 Rotation 90
+    D86       Rectangle 63 X 71
+    D87       Rectangle 70 X 93 Rotation 90
+    D88       Rectangle 70 X 93
+    D89       Round 55
+    D90       Round 160
+    D91       Rectangle 23 X 50 Rotation 90
+    D92       Rectangle 161 X 163
+    D93       Rectangle 43 X 82 Rotation 90
+    D94       Rectangle 105 X 132
+    D95       Rectangle 80 X 95
+    D96       Square 95
+    D97       Rectangle 24 X 60
+    D98       Round 86
+    D99       Round 56
+    D100       Round 30
+    D101       Round 15
+    D102       Round 18
+    D103       Round 50
+
+
+Gerber Output
+-------------
+
+    "C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\Gerber\EKOBase - Top Solder Mask.gbr"
+
+    Layers:
+    -------
+    Top Solder Mask
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D16       Round 8
+    D104       Square 242
+    D105       Round 54
+    D106       Round 66
+    D107       Square 76
+    D108       Octagon 70
+    D109       Square 66
+    D110       Octagon 60
+    D111       Rectangle 28 X 84 Rotation 90
+    D112       Rectangle 22 X 42
+    D113       Rectangle 45 X 49
+    D114       Rectangle 33 X 45 Rotation 90
+    D115       Rectangle 167 X 169 Rotation 90
+    D116       Rectangle 57 X 66
+    D117       Rectangle 45 X 49 Rotation 90
+    D118       Rectangle 57 X 66 Rotation 90
+    D119       Oval 66 X 116 Rotation 90
+    D120       Rectangle 30 X 93
+    D121       Oval 66 X 116
+    D122       Rectangle 69 X 77 Rotation 90
+    D123       Rectangle 69 X 77
+    D124       Rectangle 76 X 99 Rotation 90
+    D125       Rectangle 76 X 99
+    D126       Round 61
+    D127       Round 166
+    D128       Rectangle 29 X 56 Rotation 90
+    D129       Rectangle 167 X 169
+    D130       Rectangle 49 X 88 Rotation 90
+    D131       Rectangle 111 X 138
+    D132       Rectangle 86 X 101
+    D133       Square 101
+    D134       Rectangle 30 X 66
+    D135       Round 92
+    D136       Round 62
+
+
+Gerber Output
+-------------
+
+    "C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\Gerber\EKOBase - Bottom Copper.gbr"
+
+    Layers:
+    -------
+    Bottom Copper
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D12       Round 10
+    D14       Round 24
+    D16       Round 8
+    D25       Square 236
+    D26       Round 48
+    D27       Round 60
+    D28       Square 70
+    D29       Octagon 70
+    D72       Square 60
+    D73       Octagon 60
+    D82       Oval 60 X 110 Rotation 90
+    D84       Oval 60 X 110
+    D87       Rectangle 70 X 93 Rotation 90
+    D88       Rectangle 70 X 93
+    D89       Round 55
+    D90       Round 160
+    D98       Round 86
+    D99       Round 56
+    D100       Round 30
+    D101       Round 15
+    D103       Round 50
+    D137       Round 25
+    D138       Round 20
+
+
+Gerber Output
+-------------
+
+    "C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\Gerber\EKOBase - Bottom Silkscreen.gbr"
+
+    Layers:
+    -------
+    Bottom Silkscreen
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D11       Round 5
+    D16       Round 8
+    D137       Round 25
+
+
+Gerber Output
+-------------
+
+    "C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\Gerber\EKOBase - Bottom Documentation.gbr"
+
+    Layers:
+    -------
+    Bottom Documentation
+    Board Outlines
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D11       Round 5
+
+
+Gerber Output
+-------------
+
+    "C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\Gerber\EKOBase - Bottom Solder Mask.gbr"
+
+    Layers:
+    -------
+    Bottom Solder Mask
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D16       Round 8
+    D104       Square 242
+    D105       Round 54
+    D106       Round 66
+    D107       Square 76
+    D108       Octagon 70
+    D109       Square 66
+    D110       Octagon 60
+    D119       Oval 66 X 116 Rotation 90
+    D121       Oval 66 X 116
+    D124       Rectangle 76 X 99 Rotation 90
+    D125       Rectangle 76 X 99
+    D126       Round 61
+    D127       Round 166
+    D135       Round 92
+    D136       Round 62
+
+
+NC Drill Output
+---------------
+
+    Output:
+    -------
+    Plated Round Drill Holes
+    Plated Slots
+    Plated Board Outlines
+
+    "C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\Gerber\EKOBase - Drill Data - Through Hole.drl"
+
+
+    Tool             Size        Count  ID
+    --------------------------------------
+    T001        00.024 in            8   B
+    T002        00.030 in           28   C
+    T003        00.032 in           72   E
+    T004        00.035 in           16   F
+    T005        00.040 in           18   D
+    T006        00.062 in            4   H
+    T007        00.128 in            4   G
+    T008        00.154 in            8   A
+    --------------------------------------
+    All                            158
+    --------------------------------------
+
+NC Drill Output
+---------------
+
+    Output:
+    -------
+    Unplated Round Drill Holes
+    Unplated Slots
+    Unplated Board Outlines
+
+    "C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\Gerber\EKOBase - Drill Data - Through Hole (Unplated).drl"
+
+
+    Tool             Size        Count  ID
+    --------------------------------------
+    T001        00.025 in            1   
+    --------------------------------------
+    All                              1
+    --------------------------------------
+
+Gerber Output
+-------------
+
+    "C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\Gerber\EKOBase - Drill Ident Drawing - Through Hole.gbr"
+
+    Layers:
+    -------
+
+    Drill Ident Drawing
+    -------------------
+
+    Drill     Plated    Size      Shape     ID        
+    --------------------------------------------------
+    154       Y         100       Round     A         
+    24        Y         100       Round     B         
+    30        Y         100       Round     C         
+    40        Y         100       Round     D         
+    32        Y         100       Round     E         
+    35        Y         100       Round     F         
+    128       Y         100       Round     G         
+    62        Y         100       Round     H         
+    --------------------------------------------------
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D11       Round 5
+    D139       Round 100
+
+
+End Of Report.

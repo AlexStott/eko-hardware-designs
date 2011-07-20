@@ -1,0 +1,15 @@
+Pour Copper Report
+------------------
+
+Report File    : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\EKOBase (PCB - Pour Copper Report).txt
+Report Written : Sunday, May 29, 2011
+Project Path   : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\EKOBase.prj
+Design Path    : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\EKOBase.pcb
+Design Title   : 
+Created        : 28/05/2011 14:42:59
+Last Saved     : 29/05/2011 18:45:47
+Editing Time   : 1270 min
+Units          : mm (precision 4)
+
+
+End Of Report.

@@ -1,0 +1,19 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report File    : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\EKOBase (PCB - Schematic and PCB Check Report).txt
+Report Written : Sunday, May 29, 2011
+Project Path   : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\EKOBase.prj
+Design Path    : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\EKOBase.pcb
+Design Title   : 
+Created        : 28/05/2011 14:42:59
+Last Saved     : 29/05/2011 18:45:47
+Editing Time   : 1270 min
+Units          : mm (precision 4)
+
+Checking integrity of Schematic "C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\EKOBase.prj" with PCB "C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\EKOBase.pcb".
+
+The designs are the same.
+
+
+End Of Report.

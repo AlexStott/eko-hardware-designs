@@ -1,0 +1,17 @@
+Dangling Connections Report
+---------------------------
+
+Report File    : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\bbconnections (SCH - Dangling Connections Report).txt
+Report Written : Sunday, May 29, 2011
+Project Path   : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\EKOBase.prj
+Design Path    : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\bbconnections.sch
+Design Title   : 
+Created        : 
+Last Saved     : 29/05/2011 13:45:06
+Editing Time   : 1497 min
+Units          : thou (precision 2)
+
+
+Dangling Tracks Found : 0
+
+End Of Report.
