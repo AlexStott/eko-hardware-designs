@@ -1,0 +1,16 @@
+Pour Copper Report
+------------------
+
+Report File    : C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\Panelised\Panel EKO2 (PCB - Pour Copper Report).txt
+Report Written : Wednesday, July 27, 2011
+Design Path    : C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\Panelised\Panel EKO2.pcb
+Design Title   : 
+Created        : 27/07/2011 06:14:16
+Last Saved     : 27/07/2011 06:52:41
+Editing Time   : 47 min
+Units          : thou (precision 0)
+
+P33.4 at 9027,6052 has no thermal spokes
+P34.3 at 8377,6052 has no thermal spokes
+
+End Of Report.
