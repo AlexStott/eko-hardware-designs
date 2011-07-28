@@ -1,0 +1,20 @@
+Pour Copper Report
+------------------
+
+Report File    : C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\Panelised\Panelised DesignSpark\Lot 2\baseboard-r3-6panel (PCB - Pour Copper Report).txt
+Report Written : Wednesday, July 27, 2011
+Design Path    : C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\Panelised\Panelised DesignSpark\Lot 2\baseboard-r3-6panel.pcb
+Design Title   : 
+Created        : 27/07/2011 22:50:58
+Last Saved     : 
+Editing Time   : 6 min
+Units          : thou (precision 0)
+
+C47.2 at 8842,5975 has no thermal spokes
+C52.2 at 8908,5900 has no thermal spokes
+C53.2 at 9175,5308 has no thermal spokes
+IC21.7 at 10023,5925 has no thermal spokes
+U6.27 at 8875,5813 has no thermal spokes
+Via at 8838,6038 has no thermal spokes
+
+End Of Report.

@@ -1,0 +1,707 @@
+Design Rule Check Report
+------------------------
+
+Report File    : C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\Panelised\Panelised DesignSpark\Lot 2\baseboard-r3-6panel (PCB - Design Rule Check Report).txt
+Report Written : Thursday, July 28, 2011
+Design Path    : C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\Panelised\Panelised DesignSpark\Lot 2\baseboard-r3-6panel.pcb
+Design Title   : 
+Created        : 27/07/2011 22:50:58
+Last Saved     : 27/07/2011 23:01:00
+Editing Time   : 15 min
+Units          : thou (precision 0)
+
+Results
+-------
+
+Pad to Silkscreen error (P-S) at (3105 2416) on layer "Top Silk".
+    Silkscreen text 'C1' overlaps pad.
+Pad to Silkscreen error (P-S) at (3105 2483) on layer "Top Silk".
+    Silkscreen text 'C1' overlaps pad.
+Pad to Silkscreen error (P-S) at (4030 2337) on layer "Top Silk".
+    Silkscreen text 'C2' overlaps pad.
+Pad to Silkscreen error (P-S) at (4030 2288) on layer "Top Silk".
+    Silkscreen text 'C2' overlaps pad.
+Pad to Silkscreen error (P-S) at (3968 2238) on layer "Top Silk".
+    Silkscreen text 'C2' overlaps pad.
+Pad to Silkscreen error (P-S) at (3968 2262) on layer "Top Silk".
+    Silkscreen text 'C2' overlaps pad.
+Pad to Silkscreen error (P-S) at (3968 2337) on layer "Top Silk".
+    Silkscreen text 'C2' overlaps pad.
+Pad to Silkscreen error (P-S) at (2820 3080) on layer "Top Silk".
+    Silkscreen text 'C4' overlaps pad.
+Pad to Silkscreen error (P-S) at (2822 3155) on layer "Top Silk".
+    Silkscreen text 'C4' overlaps pad.
+Pad to Silkscreen error (P-S) at (2822 3195) on layer "Top Silk".
+    Silkscreen text 'C6' overlaps pad.
+Via to Silkscreen error (V-S) at (2822 3225) on layer "Top Silk".
+    Silkscreen text 'C6' overlaps via.
+Pad to Silkscreen error (P-S) at (5822 3195) on layer "Top Silk".
+    Silkscreen text 'C7' overlaps pad.
+Pad to Silkscreen error (P-S) at (5822 3195) on layer "Top Silk".
+    Silkscreen text 'C16' overlaps pad.
+Via to Silkscreen error (V-S) at (5822 3225) on layer "Top Silk".
+    Silkscreen text 'C7' overlaps via.
+Pad to Silkscreen error (P-S) at (6911 3037) on layer "Top Silk".
+    Silkscreen text 'C8' overlaps pad.
+Pad to Silkscreen error (P-S) at (6911 3082) on layer "Top Silk".
+    Silkscreen text 'C8' overlaps pad.
+Pad to Silkscreen error (P-S) at (3911 3037) on layer "Top Silk".
+    Silkscreen text 'C9' overlaps pad.
+Pad to Silkscreen error (P-S) at (3911 3082) on layer "Top Silk".
+    Silkscreen text 'C9' overlaps pad.
+Pad to Silkscreen error (P-S) at (2724 1705) on layer "Top Silk".
+    Silkscreen text 'C13' overlaps pad.
+Pad to Silkscreen error (P-S) at (5724 1705) on layer "Top Silk".
+    Silkscreen text 'C14' overlaps pad.
+Pad to Silkscreen error (P-S) at (5820 3080) on layer "Top Silk".
+    Silkscreen text 'C16' overlaps pad.
+Pad to Silkscreen error (P-S) at (6105 2416) on layer "Top Silk".
+    Silkscreen text 'C17' overlaps pad.
+Pad to Silkscreen error (P-S) at (6105 2483) on layer "Top Silk".
+    Silkscreen text 'C17' overlaps pad.
+Pad to Silkscreen error (P-S) at (7030 2337) on layer "Top Silk".
+    Silkscreen text 'C18' overlaps pad.
+Pad to Silkscreen error (P-S) at (7030 2288) on layer "Top Silk".
+    Silkscreen text 'C18' overlaps pad.
+Pad to Silkscreen error (P-S) at (6968 2188) on layer "Top Silk".
+    Silkscreen text 'C18' overlaps pad.
+Pad to Silkscreen error (P-S) at (6968 2212) on layer "Top Silk".
+    Silkscreen text 'C18' overlaps pad.
+Pad to Silkscreen error (P-S) at (6968 2262) on layer "Top Silk".
+    Silkscreen text 'C18' overlaps pad.
+Pad to Silkscreen error (P-S) at (6968 2337) on layer "Top Silk".
+    Silkscreen text 'C18' overlaps pad.
+Pad to Silkscreen error (P-S) at (8822 3195) on layer "Top Silk".
+    Silkscreen text 'C20' overlaps pad.
+Pad to Silkscreen error (P-S) at (8822 3195) on layer "Top Silk".
+    Silkscreen text 'C25' overlaps pad.
+Via to Silkscreen error (V-S) at (8822 3250) on layer "Top Silk".
+    Silkscreen text 'C20' overlaps via.
+Pad to Silkscreen error (P-S) at (9911 3037) on layer "Top Silk".
+    Silkscreen text 'C21' overlaps pad.
+Pad to Silkscreen error (P-S) at (9911 3082) on layer "Top Silk".
+    Silkscreen text 'C21' overlaps pad.
+Pad to Silkscreen error (P-S) at (8724 1705) on layer "Top Silk".
+    Silkscreen text 'C23' overlaps pad.
+Pad to Silkscreen error (P-S) at (8820 3080) on layer "Top Silk".
+    Silkscreen text 'C25' overlaps pad.
+Pad to Silkscreen error (P-S) at (9105 2416) on layer "Top Silk".
+    Silkscreen text 'C26' overlaps pad.
+Pad to Silkscreen error (P-S) at (9105 2483) on layer "Top Silk".
+    Silkscreen text 'C26' overlaps pad.
+Pad to Silkscreen error (P-S) at (10030 2337) on layer "Top Silk".
+    Silkscreen text 'C27' overlaps pad.
+Pad to Silkscreen error (P-S) at (10030 2288) on layer "Top Silk".
+    Silkscreen text 'C27' overlaps pad.
+Pad to Silkscreen error (P-S) at (9968 2188) on layer "Top Silk".
+    Silkscreen text 'C27' overlaps pad.
+Pad to Silkscreen error (P-S) at (9968 2212) on layer "Top Silk".
+    Silkscreen text 'C27' overlaps pad.
+Pad to Silkscreen error (P-S) at (9968 2262) on layer "Top Silk".
+    Silkscreen text 'C27' overlaps pad.
+Pad to Silkscreen error (P-S) at (9968 2337) on layer "Top Silk".
+    Silkscreen text 'C27' overlaps pad.
+Pad to Silkscreen error (P-S) at (2822 5995) on layer "Top Silk".
+    Silkscreen text 'C29' overlaps pad.
+Pad to Silkscreen error (P-S) at (2822 5995) on layer "Top Silk".
+    Silkscreen text 'C34' overlaps pad.
+Via to Silkscreen error (V-S) at (2822 6050) on layer "Top Silk".
+    Silkscreen text 'C29' overlaps via.
+Pad to Silkscreen error (P-S) at (3911 5837) on layer "Top Silk".
+    Silkscreen text 'C30' overlaps pad.
+Pad to Silkscreen error (P-S) at (3911 5882) on layer "Top Silk".
+    Silkscreen text 'C30' overlaps pad.
+Pad to Silkscreen error (P-S) at (2724 4505) on layer "Top Silk".
+    Silkscreen text 'C32' overlaps pad.
+Pad to Silkscreen error (P-S) at (2820 5880) on layer "Top Silk".
+    Silkscreen text 'C34' overlaps pad.
+Pad to Silkscreen error (P-S) at (3105 5216) on layer "Top Silk".
+    Silkscreen text 'C35' overlaps pad.
+Pad to Silkscreen error (P-S) at (3105 5283) on layer "Top Silk".
+    Silkscreen text 'C35' overlaps pad.
+Pad to Silkscreen error (P-S) at (4030 5137) on layer "Top Silk".
+    Silkscreen text 'C36' overlaps pad.
+Pad to Silkscreen error (P-S) at (4030 5088) on layer "Top Silk".
+    Silkscreen text 'C36' overlaps pad.
+Pad to Silkscreen error (P-S) at (3968 4988) on layer "Top Silk".
+    Silkscreen text 'C36' overlaps pad.
+Pad to Silkscreen error (P-S) at (3968 5012) on layer "Top Silk".
+    Silkscreen text 'C36' overlaps pad.
+Pad to Silkscreen error (P-S) at (3968 5062) on layer "Top Silk".
+    Silkscreen text 'C36' overlaps pad.
+Pad to Silkscreen error (P-S) at (3968 5137) on layer "Top Silk".
+    Silkscreen text 'C36' overlaps pad.
+Pad to Silkscreen error (P-S) at (5822 5995) on layer "Top Silk".
+    Silkscreen text 'C38' overlaps pad.
+Pad to Silkscreen error (P-S) at (5822 5995) on layer "Top Silk".
+    Silkscreen text 'C43' overlaps pad.
+Via to Silkscreen error (V-S) at (5822 6050) on layer "Top Silk".
+    Silkscreen text 'C38' overlaps via.
+Pad to Silkscreen error (P-S) at (6911 5837) on layer "Top Silk".
+    Silkscreen text 'C39' overlaps pad.
+Pad to Silkscreen error (P-S) at (6911 5882) on layer "Top Silk".
+    Silkscreen text 'C39' overlaps pad.
+Pad to Silkscreen error (P-S) at (5724 4505) on layer "Top Silk".
+    Silkscreen text 'C41' overlaps pad.
+Pad to Silkscreen error (P-S) at (5820 5880) on layer "Top Silk".
+    Silkscreen text 'C43' overlaps pad.
+Pad to Silkscreen error (P-S) at (6105 5216) on layer "Top Silk".
+    Silkscreen text 'C44' overlaps pad.
+Pad to Silkscreen error (P-S) at (6105 5283) on layer "Top Silk".
+    Silkscreen text 'C44' overlaps pad.
+Pad to Silkscreen error (P-S) at (7030 5137) on layer "Top Silk".
+    Silkscreen text 'C45' overlaps pad.
+Pad to Silkscreen error (P-S) at (7030 5088) on layer "Top Silk".
+    Silkscreen text 'C45' overlaps pad.
+Pad to Silkscreen error (P-S) at (6968 4988) on layer "Top Silk".
+    Silkscreen text 'C45' overlaps pad.
+Pad to Silkscreen error (P-S) at (6968 5012) on layer "Top Silk".
+    Silkscreen text 'C45' overlaps pad.
+Pad to Silkscreen error (P-S) at (6968 5062) on layer "Top Silk".
+    Silkscreen text 'C45' overlaps pad.
+Pad to Silkscreen error (P-S) at (6968 5137) on layer "Top Silk".
+    Silkscreen text 'C45' overlaps pad.
+Pad to Silkscreen error (P-S) at (8822 5995) on layer "Top Silk".
+    Silkscreen text 'C47' overlaps pad.
+Pad to Silkscreen error (P-S) at (8822 5995) on layer "Top Silk".
+    Silkscreen text 'C52' overlaps pad.
+Via to Silkscreen error (V-S) at (8822 6050) on layer "Top Silk".
+    Silkscreen text 'C47' overlaps via.
+Pad to Silkscreen error (P-S) at (9911 5837) on layer "Top Silk".
+    Silkscreen text 'C48' overlaps pad.
+Pad to Silkscreen error (P-S) at (9911 5882) on layer "Top Silk".
+    Silkscreen text 'C48' overlaps pad.
+Pad to Silkscreen error (P-S) at (8724 4505) on layer "Top Silk".
+    Silkscreen text 'C50' overlaps pad.
+Pad to Silkscreen error (P-S) at (8820 5880) on layer "Top Silk".
+    Silkscreen text 'C52' overlaps pad.
+Pad to Silkscreen error (P-S) at (9105 5216) on layer "Top Silk".
+    Silkscreen text 'C53' overlaps pad.
+Pad to Silkscreen error (P-S) at (9105 5283) on layer "Top Silk".
+    Silkscreen text 'C53' overlaps pad.
+Pad to Silkscreen error (P-S) at (10030 5137) on layer "Top Silk".
+    Silkscreen text 'C54' overlaps pad.
+Pad to Silkscreen error (P-S) at (10030 5088) on layer "Top Silk".
+    Silkscreen text 'C54' overlaps pad.
+Pad to Silkscreen error (P-S) at (9968 4988) on layer "Top Silk".
+    Silkscreen text 'C54' overlaps pad.
+Pad to Silkscreen error (P-S) at (9968 5012) on layer "Top Silk".
+    Silkscreen text 'C54' overlaps pad.
+Pad to Silkscreen error (P-S) at (9968 5062) on layer "Top Silk".
+    Silkscreen text 'C54' overlaps pad.
+Pad to Silkscreen error (P-S) at (9968 5137) on layer "Top Silk".
+    Silkscreen text 'C54' overlaps pad.
+Pad to Silkscreen error (P-S) at (3040 1699) on layer "Bot Silk".
+    Silkscreen text 'INTR' overlaps pad.
+Pad to Silkscreen error (P-S) at (3246 1698) on layer "Top Silk".
+    Silkscreen text 'DA' overlaps pad.
+Via to Silkscreen error (V-S) at (3525 1828) on layer "Top Silk".
+    Silkscreen shape overlaps via.
+Pad to Silkscreen error (P-S) at (6040 1699) on layer "Bot Silk".
+    Silkscreen text 'INTR' overlaps pad.
+Pad to Silkscreen error (P-S) at (6246 1698) on layer "Top Silk".
+    Silkscreen text 'DA' overlaps pad.
+Via to Silkscreen error (V-S) at (6525 1828) on layer "Top Silk".
+    Silkscreen shape overlaps via.
+Pad to Silkscreen error (P-S) at (9040 1699) on layer "Bot Silk".
+    Silkscreen text 'INTR' overlaps pad.
+Pad to Silkscreen error (P-S) at (9246 1698) on layer "Top Silk".
+    Silkscreen text 'DA' overlaps pad.
+Via to Silkscreen error (V-S) at (9525 1828) on layer "Top Silk".
+    Silkscreen shape overlaps via.
+Pad to Silkscreen error (P-S) at (3040 4499) on layer "Bot Silk".
+    Silkscreen text 'INTR' overlaps pad.
+Pad to Silkscreen error (P-S) at (3246 4498) on layer "Top Silk".
+    Silkscreen text 'DA' overlaps pad.
+Via to Silkscreen error (V-S) at (3525 4628) on layer "Top Silk".
+    Silkscreen shape overlaps via.
+Pad to Silkscreen error (P-S) at (6040 4499) on layer "Bot Silk".
+    Silkscreen text 'INTR' overlaps pad.
+Pad to Silkscreen error (P-S) at (6246 4498) on layer "Top Silk".
+    Silkscreen text 'DA' overlaps pad.
+Via to Silkscreen error (V-S) at (6525 4628) on layer "Top Silk".
+    Silkscreen shape overlaps via.
+Pad to Silkscreen error (P-S) at (9801 4202) on layer "Top Silk".
+    Silkscreen text 'CONN11' overlaps pad.
+Pad to Silkscreen error (P-S) at (9040 4499) on layer "Bot Silk".
+    Silkscreen text 'INTR' overlaps pad.
+Pad to Silkscreen error (P-S) at (9246 4498) on layer "Top Silk".
+    Silkscreen text 'DA' overlaps pad.
+Via to Silkscreen error (V-S) at (9525 4628) on layer "Top Silk".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (3266 1375) on layer "Bot Silk".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (3625 1797) on layer "Top Silk".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (3633 1814) on layer "Top Silk".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (6266 1375) on layer "Bot Silk".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (6625 1797) on layer "Top Silk".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (6632 1814) on layer "Top Silk".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (9266 1375) on layer "Bot Silk".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (9625 1797) on layer "Top Silk".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (9633 1814) on layer "Top Silk".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (3266 4175) on layer "Bot Silk".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (3625 4597) on layer "Top Silk".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (3633 4614) on layer "Top Silk".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (3558 4610) on layer "Top Silk".
+    Silkscreen text 'D12' overlaps via.
+Via to Silkscreen error (V-S) at (3604 4593) on layer "Top Silk".
+    Silkscreen text 'D12' overlaps via.
+Via to Silkscreen error (V-S) at (6266 4175) on layer "Bot Silk".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (6625 4597) on layer "Top Silk".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (6632 4614) on layer "Top Silk".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (6558 4610) on layer "Top Silk".
+    Silkscreen text 'D15' overlaps via.
+Via to Silkscreen error (V-S) at (6604 4593) on layer "Top Silk".
+    Silkscreen text 'D15' overlaps via.
+Via to Silkscreen error (V-S) at (9266 4175) on layer "Bot Silk".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (9625 4597) on layer "Top Silk".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (9633 4614) on layer "Top Silk".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (9558 4610) on layer "Top Silk".
+    Silkscreen text 'D18' overlaps via.
+Via to Silkscreen error (V-S) at (9604 4593) on layer "Top Silk".
+    Silkscreen text 'D18' overlaps via.
+Pad to Silkscreen error (P-S) at (9275 2100) on layer "Top Silk".
+    Silkscreen text 'IC11' overlaps pad.
+Via to Silkscreen error (V-S) at (9793 2105) on layer "Top Silk".
+    Silkscreen text 'IC12' overlaps via.
+Pad to Silkscreen error (P-S) at (3275 4900) on layer "Top Silk".
+    Silkscreen text 'IC15' overlaps pad.
+Via to Silkscreen error (V-S) at (3793 4905) on layer "Top Silk".
+    Silkscreen text 'IC16' overlaps via.
+Pad to Silkscreen error (P-S) at (6275 4900) on layer "Top Silk".
+    Silkscreen text 'IC19' overlaps pad.
+Via to Silkscreen error (V-S) at (6793 4905) on layer "Top Silk".
+    Silkscreen text 'IC20' overlaps via.
+Pad to Silkscreen error (P-S) at (9275 4900) on layer "Top Silk".
+    Silkscreen text 'IC23' overlaps pad.
+Via to Silkscreen error (V-S) at (9793 4905) on layer "Top Silk".
+    Silkscreen text 'IC24' overlaps via.
+Pad to Silkscreen error (P-S) at (4448 2298) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (4396 2230) on layer "Top Silk".
+    Silkscreen text 'LED2' overlaps pad.
+Pad to Silkscreen error (P-S) at (4448 2048) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (4427 2123) on layer "Top Silk".
+    Silkscreen text 'LED2' overlaps pad.
+Pad to Silkscreen error (P-S) at (4596 2230) on layer "Top Silk".
+    Silkscreen text 'LED1' overlaps pad.
+Pad to Silkscreen error (P-S) at (4627 2123) on layer "Top Silk".
+    Silkscreen text 'LED1' overlaps pad.
+Pad to Silkscreen error (P-S) at (4248 2298) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (4248 2048) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (7648 2298) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (7596 2230) on layer "Top Silk".
+    Silkscreen text 'LED4' overlaps pad.
+Pad to Silkscreen error (P-S) at (7648 2048) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (7627 2123) on layer "Top Silk".
+    Silkscreen text 'LED4' overlaps pad.
+Pad to Silkscreen error (P-S) at (7448 2298) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (7396 2230) on layer "Top Silk".
+    Silkscreen text 'LED5' overlaps pad.
+Pad to Silkscreen error (P-S) at (7448 2048) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (7427 2123) on layer "Top Silk".
+    Silkscreen text 'LED5' overlaps pad.
+Pad to Silkscreen error (P-S) at (7248 2298) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (7248 2048) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (10648 2298) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (10596 2230) on layer "Top Silk".
+    Silkscreen text 'LED7' overlaps pad.
+Pad to Silkscreen error (P-S) at (10648 2048) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (10627 2123) on layer "Top Silk".
+    Silkscreen text 'LED7' overlaps pad.
+Pad to Silkscreen error (P-S) at (10448 2298) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (10396 2230) on layer "Top Silk".
+    Silkscreen text 'LED9' overlaps pad.
+Pad to Silkscreen error (P-S) at (10448 2048) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (10427 2123) on layer "Top Silk".
+    Silkscreen text 'LED9' overlaps pad.
+Pad to Silkscreen error (P-S) at (4648 2298) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (4648 2048) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (10248 2298) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (10248 2048) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (4648 5098) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (4596 5030) on layer "Top Silk".
+    Silkscreen text 'LED11' overlaps pad.
+Pad to Silkscreen error (P-S) at (4648 4848) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (4627 4923) on layer "Top Silk".
+    Silkscreen text 'LED11' overlaps pad.
+Pad to Silkscreen error (P-S) at (4448 5098) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (4396 5030) on layer "Top Silk".
+    Silkscreen text 'LED12' overlaps pad.
+Pad to Silkscreen error (P-S) at (4448 4848) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (4427 4923) on layer "Top Silk".
+    Silkscreen text 'LED12' overlaps pad.
+Pad to Silkscreen error (P-S) at (4248 5098) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (4248 4848) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (7648 5098) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (7596 5030) on layer "Top Silk".
+    Silkscreen text 'LED14' overlaps pad.
+Pad to Silkscreen error (P-S) at (7648 4848) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (7627 4923) on layer "Top Silk".
+    Silkscreen text 'LED14' overlaps pad.
+Pad to Silkscreen error (P-S) at (7448 5098) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (7396 5030) on layer "Top Silk".
+    Silkscreen text 'LED15' overlaps pad.
+Pad to Silkscreen error (P-S) at (7448 4848) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (7427 4923) on layer "Top Silk".
+    Silkscreen text 'LED15' overlaps pad.
+Pad to Silkscreen error (P-S) at (7248 5098) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (7248 4848) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (10648 5098) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (10596 5030) on layer "Top Silk".
+    Silkscreen text 'LED17' overlaps pad.
+Pad to Silkscreen error (P-S) at (10648 4848) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (10627 4923) on layer "Top Silk".
+    Silkscreen text 'LED17' overlaps pad.
+Pad to Silkscreen error (P-S) at (10448 5098) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (10396 5030) on layer "Top Silk".
+    Silkscreen text 'LED18' overlaps pad.
+Pad to Silkscreen error (P-S) at (10448 4848) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (10427 4923) on layer "Top Silk".
+    Silkscreen text 'LED18' overlaps pad.
+Pad to Silkscreen error (P-S) at (10248 5098) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Pad to Silkscreen error (P-S) at (10248 4848) on layer "Top Silk".
+    Silkscreen text '?' overlaps pad.
+Via to Silkscreen error (V-S) at (5904 3418) on layer "Top Silk".
+    Silkscreen text 'P10' overlaps via.
+Via to Silkscreen error (V-S) at (8904 3418) on layer "Top Silk".
+    Silkscreen text 'P16' overlaps via.
+Via to Silkscreen error (V-S) at (2904 6217) on layer "Top Silk".
+    Silkscreen text 'P22' overlaps via.
+Via to Silkscreen error (V-S) at (5904 6217) on layer "Top Silk".
+    Silkscreen text 'P28' overlaps via.
+Via to Silkscreen error (V-S) at (8904 6217) on layer "Top Silk".
+    Silkscreen text 'P34' overlaps via.
+Pad to Silkscreen error (P-S) at (2445 2867) on layer "Bot Silk".
+    Silkscreen text 'R1' overlaps pad.
+Pad to Silkscreen error (P-S) at (2445 2934) on layer "Bot Silk".
+    Silkscreen text 'R1' overlaps pad.
+Pad to Silkscreen error (P-S) at (3634 3142) on layer "Top Silk".
+    Silkscreen text 'R3' overlaps pad.
+Pad to Silkscreen error (P-S) at (3636 3068) on layer "Top Silk".
+    Silkscreen text 'R3' overlaps pad.
+Pad to Silkscreen error (P-S) at (3520 2357) on layer "Top Silk".
+    Silkscreen text 'R8' overlaps pad.
+Pad to Silkscreen error (P-S) at (3520 2317) on layer "Top Silk".
+    Silkscreen text 'R8' overlaps pad.
+Pad to Silkscreen error (P-S) at (5445 2867) on layer "Bot Silk".
+    Silkscreen text 'R10' overlaps pad.
+Pad to Silkscreen error (P-S) at (5445 2934) on layer "Bot Silk".
+    Silkscreen text 'R10' overlaps pad.
+Pad to Silkscreen error (P-S) at (6634 3142) on layer "Top Silk".
+    Silkscreen text 'R11' overlaps pad.
+Pad to Silkscreen error (P-S) at (6636 3068) on layer "Top Silk".
+    Silkscreen text 'R11' overlaps pad.
+Pad to Silkscreen error (P-S) at (6520 2357) on layer "Top Silk".
+    Silkscreen text 'R15' overlaps pad.
+Pad to Silkscreen error (P-S) at (6520 2317) on layer "Top Silk".
+    Silkscreen text 'R15' overlaps pad.
+Pad to Silkscreen error (P-S) at (6395 2384) on layer "Top Silk".
+    Silkscreen text 'TP14' overlaps pad.
+Via to Silkscreen error (V-S) at (6527 2243) on layer "Top Silk".
+    Silkscreen text 'R15' overlaps via.
+Pad to Silkscreen error (P-S) at (8445 2867) on layer "Bot Silk".
+    Silkscreen text 'R19' overlaps pad.
+Pad to Silkscreen error (P-S) at (8445 2934) on layer "Bot Silk".
+    Silkscreen text 'R19' overlaps pad.
+Pad to Silkscreen error (P-S) at (9634 3142) on layer "Top Silk".
+    Silkscreen text 'R20' overlaps pad.
+Pad to Silkscreen error (P-S) at (9636 3068) on layer "Top Silk".
+    Silkscreen text 'R20' overlaps pad.
+Pad to Silkscreen error (P-S) at (9520 2357) on layer "Top Silk".
+    Silkscreen text 'R24' overlaps pad.
+Pad to Silkscreen error (P-S) at (9520 2317) on layer "Top Silk".
+    Silkscreen text 'R24' overlaps pad.
+Pad to Silkscreen error (P-S) at (9395 2384) on layer "Top Silk".
+    Silkscreen text 'TP26' overlaps pad.
+Via to Silkscreen error (V-S) at (9527 2243) on layer "Top Silk".
+    Silkscreen text 'R24' overlaps via.
+Pad to Silkscreen error (P-S) at (2445 5667) on layer "Bot Silk".
+    Silkscreen text 'R28' overlaps pad.
+Pad to Silkscreen error (P-S) at (2445 5734) on layer "Bot Silk".
+    Silkscreen text 'R28' overlaps pad.
+Pad to Silkscreen error (P-S) at (3634 5942) on layer "Top Silk".
+    Silkscreen text 'R29' overlaps pad.
+Pad to Silkscreen error (P-S) at (3636 5868) on layer "Top Silk".
+    Silkscreen text 'R29' overlaps pad.
+Pad to Silkscreen error (P-S) at (3520 5157) on layer "Top Silk".
+    Silkscreen text 'R33' overlaps pad.
+Pad to Silkscreen error (P-S) at (3520 5117) on layer "Top Silk".
+    Silkscreen text 'R33' overlaps pad.
+Pad to Silkscreen error (P-S) at (3395 5184) on layer "Top Silk".
+    Silkscreen text 'TP38' overlaps pad.
+Via to Silkscreen error (V-S) at (3527 5043) on layer "Top Silk".
+    Silkscreen text 'R33' overlaps via.
+Pad to Silkscreen error (P-S) at (5445 5667) on layer "Bot Silk".
+    Silkscreen text 'R37' overlaps pad.
+Pad to Silkscreen error (P-S) at (5445 5734) on layer "Bot Silk".
+    Silkscreen text 'R37' overlaps pad.
+Pad to Silkscreen error (P-S) at (6634 5942) on layer "Top Silk".
+    Silkscreen text 'R38' overlaps pad.
+Pad to Silkscreen error (P-S) at (6636 5868) on layer "Top Silk".
+    Silkscreen text 'R38' overlaps pad.
+Pad to Silkscreen error (P-S) at (6520 5157) on layer "Top Silk".
+    Silkscreen text 'R42' overlaps pad.
+Pad to Silkscreen error (P-S) at (6520 5117) on layer "Top Silk".
+    Silkscreen text 'R42' overlaps pad.
+Pad to Silkscreen error (P-S) at (6395 5184) on layer "Top Silk".
+    Silkscreen text 'TP50' overlaps pad.
+Via to Silkscreen error (V-S) at (6527 5043) on layer "Top Silk".
+    Silkscreen text 'R42' overlaps via.
+Pad to Silkscreen error (P-S) at (8445 5667) on layer "Bot Silk".
+    Silkscreen text 'R46' overlaps pad.
+Pad to Silkscreen error (P-S) at (8445 5734) on layer "Bot Silk".
+    Silkscreen text 'R46' overlaps pad.
+Pad to Silkscreen error (P-S) at (9634 5942) on layer "Top Silk".
+    Silkscreen text 'R47' overlaps pad.
+Pad to Silkscreen error (P-S) at (9636 5868) on layer "Top Silk".
+    Silkscreen text 'R47' overlaps pad.
+Pad to Silkscreen error (P-S) at (9520 5157) on layer "Top Silk".
+    Silkscreen text 'R51' overlaps pad.
+Pad to Silkscreen error (P-S) at (9520 5117) on layer "Top Silk".
+    Silkscreen text 'R51' overlaps pad.
+Pad to Silkscreen error (P-S) at (9395 5184) on layer "Top Silk".
+    Silkscreen text 'TP62' overlaps pad.
+Via to Silkscreen error (V-S) at (9527 5043) on layer "Top Silk".
+    Silkscreen text 'R51' overlaps via.
+Pad to Silkscreen error (P-S) at (3876 2907) on layer "Top Silk".
+    Silkscreen text 'CC:TINT' overlaps pad.
+Via to Silkscreen error (V-S) at (4022 2780) on layer "Top Silk".
+    Silkscreen text 'SJ1' overlaps via.
+Pad to Silkscreen error (P-S) at (6876 2907) on layer "Top Silk".
+    Silkscreen text 'CC:TINT' overlaps pad.
+Via to Silkscreen error (V-S) at (7022 2780) on layer "Top Silk".
+    Silkscreen text 'SJ2' overlaps via.
+Pad to Silkscreen error (P-S) at (9876 2907) on layer "Top Silk".
+    Silkscreen text 'CC:TINT' overlaps pad.
+Via to Silkscreen error (V-S) at (10022 2780) on layer "Top Silk".
+    Silkscreen text 'SJ3' overlaps via.
+Pad to Silkscreen error (P-S) at (3876 5707) on layer "Top Silk".
+    Silkscreen text 'CC:TINT' overlaps pad.
+Via to Silkscreen error (V-S) at (4022 5579) on layer "Top Silk".
+    Silkscreen text 'SJ4' overlaps via.
+Pad to Silkscreen error (P-S) at (6876 5707) on layer "Top Silk".
+    Silkscreen text 'CC:TINT' overlaps pad.
+Via to Silkscreen error (V-S) at (7022 5579) on layer "Top Silk".
+    Silkscreen text 'SJ5' overlaps via.
+Pad to Silkscreen error (P-S) at (9876 5707) on layer "Top Silk".
+    Silkscreen text 'CC:TINT' overlaps pad.
+Via to Silkscreen error (V-S) at (10022 5579) on layer "Top Silk".
+    Silkscreen text 'SJ6' overlaps via.
+Pad to Silkscreen error (P-S) at (3575 2075) on layer "Top Silk".
+    Silkscreen text 'TP4' overlaps pad.
+Pad to Silkscreen error (P-S) at (3424 3151) on layer "Top Silk".
+    Silkscreen text 'TP7' overlaps pad.
+Pad to Silkscreen error (P-S) at (3349 3151) on layer "Top Silk".
+    Silkscreen text 'TP8' overlaps pad.
+Pad to Silkscreen error (P-S) at (2864 2072) on layer "Top Silk".
+    Silkscreen text 'TP9' overlaps pad.
+Pad to Silkscreen error (P-S) at (2221 1554) on layer "Top Silk".
+    Silkscreen text 'TP13' overlaps pad.
+Pad to Silkscreen error (P-S) at (6575 2075) on layer "Top Silk".
+    Silkscreen text 'TP16' overlaps pad.
+Pad to Silkscreen error (P-S) at (6424 3151) on layer "Top Silk".
+    Silkscreen text 'TP18' overlaps pad.
+Pad to Silkscreen error (P-S) at (6424 3151) on layer "Top Silk".
+    Silkscreen text 'TP19' overlaps pad.
+Pad to Silkscreen error (P-S) at (6349 3151) on layer "Top Silk".
+    Silkscreen text 'TP19' overlaps pad.
+Pad to Silkscreen error (P-S) at (5888 2082) on layer "Top Silk".
+    Silkscreen text 'TP20' overlaps pad.
+Pad to Silkscreen error (P-S) at (5221 1554) on layer "Top Silk".
+    Silkscreen text 'TP24' overlaps pad.
+Pad to Silkscreen error (P-S) at (9575 2075) on layer "Top Silk".
+    Silkscreen text 'TP28' overlaps pad.
+Pad to Silkscreen error (P-S) at (9424 3151) on layer "Top Silk".
+    Silkscreen text 'TP30' overlaps pad.
+Pad to Silkscreen error (P-S) at (9424 3151) on layer "Top Silk".
+    Silkscreen text 'TP31' overlaps pad.
+Pad to Silkscreen error (P-S) at (9349 3151) on layer "Top Silk".
+    Silkscreen text 'TP31' overlaps pad.
+Pad to Silkscreen error (P-S) at (8888 2082) on layer "Top Silk".
+    Silkscreen text 'TP32' overlaps pad.
+Pad to Silkscreen error (P-S) at (8221 1554) on layer "Top Silk".
+    Silkscreen text 'TP36' overlaps pad.
+Pad to Silkscreen error (P-S) at (3575 4875) on layer "Top Silk".
+    Silkscreen text 'TP40' overlaps pad.
+Pad to Silkscreen error (P-S) at (3424 5951) on layer "Top Silk".
+    Silkscreen text 'TP42' overlaps pad.
+Pad to Silkscreen error (P-S) at (3424 5951) on layer "Top Silk".
+    Silkscreen text 'TP43' overlaps pad.
+Pad to Silkscreen error (P-S) at (3349 5951) on layer "Top Silk".
+    Silkscreen text 'TP43' overlaps pad.
+Pad to Silkscreen error (P-S) at (2888 4882) on layer "Top Silk".
+    Silkscreen text 'TP44' overlaps pad.
+Pad to Silkscreen error (P-S) at (2221 4354) on layer "Top Silk".
+    Silkscreen text 'TP48' overlaps pad.
+Pad to Silkscreen error (P-S) at (6575 4875) on layer "Top Silk".
+    Silkscreen text 'TP52' overlaps pad.
+Pad to Silkscreen error (P-S) at (6424 5951) on layer "Top Silk".
+    Silkscreen text 'TP54' overlaps pad.
+Pad to Silkscreen error (P-S) at (6424 5951) on layer "Top Silk".
+    Silkscreen text 'TP55' overlaps pad.
+Pad to Silkscreen error (P-S) at (6349 5951) on layer "Top Silk".
+    Silkscreen text 'TP55' overlaps pad.
+Pad to Silkscreen error (P-S) at (5888 4882) on layer "Top Silk".
+    Silkscreen text 'TP56' overlaps pad.
+Pad to Silkscreen error (P-S) at (5221 4354) on layer "Top Silk".
+    Silkscreen text 'TP60' overlaps pad.
+Pad to Silkscreen error (P-S) at (9575 4875) on layer "Top Silk".
+    Silkscreen text 'TP64' overlaps pad.
+Pad to Silkscreen error (P-S) at (9424 5951) on layer "Top Silk".
+    Silkscreen text 'TP66' overlaps pad.
+Pad to Silkscreen error (P-S) at (9424 5951) on layer "Top Silk".
+    Silkscreen text 'TP67' overlaps pad.
+Pad to Silkscreen error (P-S) at (9349 5951) on layer "Top Silk".
+    Silkscreen text 'TP67' overlaps pad.
+Pad to Silkscreen error (P-S) at (8888 4882) on layer "Top Silk".
+    Silkscreen text 'TP68' overlaps pad.
+Pad to Silkscreen error (P-S) at (8221 4354) on layer "Top Silk".
+    Silkscreen text 'TP72' overlaps pad.
+Pad to Silkscreen error (P-S) at (4028 2866) on layer "Top Silk".
+    Silkscreen text 'MCP9800' overlaps pad.
+Pad to Silkscreen error (P-S) at (4139 2866) on layer "Top Silk".
+    Silkscreen text 'MCP9800' overlaps pad.
+Pad to Shape Error (P-C) between (4072 2954) and (4080 2954) on Layer "Top".
+    Error between Component Pad U$1.VDD (Net '+3V3') and Component Shape, Gap is 5 needs to be 10.
+Pad to Silkscreen error (P-S) at (7028 2866) on layer "Top Silk".
+    Silkscreen text 'MCP9800' overlaps pad.
+Pad to Silkscreen error (P-S) at (7139 2866) on layer "Top Silk".
+    Silkscreen text 'MCP9800' overlaps pad.
+Pad to Shape Error (P-C) between (7072 2954) and (7080 2954) on Layer "Top".
+    Error between Component Pad U$2.VDD (Net '+3V1') and Component Shape, Gap is 5 needs to be 10.
+Pad to Silkscreen error (P-S) at (10028 2866) on layer "Top Silk".
+    Silkscreen text 'MCP9800' overlaps pad.
+Pad to Silkscreen error (P-S) at (10139 2866) on layer "Top Silk".
+    Silkscreen text 'MCP9800' overlaps pad.
+Pad to Shape Error (P-C) between (10072 2954) and (10080 2954) on Layer "Top".
+    Error between Component Pad U$3.VDD (Net '+3V2') and Component Shape, Gap is 5 needs to be 10.
+Pad to Silkscreen error (P-S) at (4028 5666) on layer "Top Silk".
+    Silkscreen text 'MCP9800' overlaps pad.
+Pad to Silkscreen error (P-S) at (4139 5666) on layer "Top Silk".
+    Silkscreen text 'MCP9800' overlaps pad.
+Pad to Shape Error (P-C) between (4072 5754) and (4080 5754) on Layer "Top".
+    Error between Component Pad U$4.VDD (Net '+3V4') and Component Shape, Gap is 5 needs to be 10.
+Pad to Silkscreen error (P-S) at (7028 5666) on layer "Top Silk".
+    Silkscreen text 'MCP9800' overlaps pad.
+Pad to Silkscreen error (P-S) at (7139 5666) on layer "Top Silk".
+    Silkscreen text 'MCP9800' overlaps pad.
+Pad to Shape Error (P-C) between (7072 5754) and (7080 5754) on Layer "Top".
+    Error between Component Pad U$5.VDD (Net '+3V5') and Component Shape, Gap is 5 needs to be 10.
+Pad to Silkscreen error (P-S) at (10028 5666) on layer "Top Silk".
+    Silkscreen text 'MCP9800' overlaps pad.
+Pad to Silkscreen error (P-S) at (10139 5666) on layer "Top Silk".
+    Silkscreen text 'MCP9800' overlaps pad.
+Pad to Shape Error (P-C) between (10072 5754) and (10080 5754) on Layer "Top".
+    Error between Component Pad U$6.VDD (Net '+3V6') and Component Shape, Gap is 5 needs to be 10.
+Via to Silkscreen error (V-S) at (4022 2780) on layer "Top Silk".
+    Silkscreen text 'e.quinox' overlaps via.
+Via to Silkscreen error (V-S) at (7022 2780) on layer "Top Silk".
+    Silkscreen text 'e.quinox' overlaps via.
+Via to Silkscreen error (V-S) at (10022 2780) on layer "Top Silk".
+    Silkscreen text 'e.quinox' overlaps via.
+Via to Silkscreen error (V-S) at (4022 5579) on layer "Top Silk".
+    Silkscreen text 'e.quinox' overlaps via.
+Via to Silkscreen error (V-S) at (7022 5579) on layer "Top Silk".
+    Silkscreen text 'e.quinox' overlaps via.
+Via to Silkscreen error (V-S) at (10022 5579) on layer "Top Silk".
+    Silkscreen text 'e.quinox' overlaps via.
+Via to Silkscreen error (V-S) at (3876 2958) on layer "Top Silk".
+    Silkscreen text 'RA6 SEL' overlaps via.
+Via to Silkscreen error (V-S) at (6876 2958) on layer "Top Silk".
+    Silkscreen text 'RA6 SEL' overlaps via.
+Via to Silkscreen error (V-S) at (9876 2958) on layer "Top Silk".
+    Silkscreen text 'RA6 SEL' overlaps via.
+Via to Silkscreen error (V-S) at (3876 5758) on layer "Top Silk".
+    Silkscreen text 'RA6 SEL' overlaps via.
+Via to Silkscreen error (V-S) at (6876 5758) on layer "Top Silk".
+    Silkscreen text 'RA6 SEL' overlaps via.
+Via to Silkscreen error (V-S) at (9876 5758) on layer "Top Silk".
+    Silkscreen text 'RA6 SEL' overlaps via.
+Track to Shape Error (T-C) between (4173 6275) and (4173 6250) on Layer "Top".
+    Error between Track (Net 'SDA3') and Poured Shape (Net '0V3'), Gap is 1 needs to be 10.
+
+Number of errors found : 329
+
+Settings
+--------
+
+Spacings
+    Tracks                             Yes
+    Pads and Vias                      Yes
+    Shapes                             Yes
+    Text                               Yes
+    Board                              Yes
+    Drills                             Yes
+    Components                         No
+
+Manufacturing
+    Drill Breakout                     Yes
+    Drill Backoff                      No
+    Silkscreen Overlap                 Yes
+    Copper Text In Board               Yes
+    Min Track Width                    Yes
+    Min Annular Ring                   Yes
+    Min Paste Size                     Yes
+    Vias In Pads                       Yes
+    Unplated Vias                      Yes
+    Unplated Pads With Inner Tracks    Yes
+
+Nets
+    Net Completion                     Yes
+    Dangling Tracks                    No
+    Net Track Length Differences       No
+
+
+End Of Report.

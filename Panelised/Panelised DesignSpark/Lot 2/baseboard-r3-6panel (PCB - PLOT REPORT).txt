@@ -1,0 +1,319 @@
+PLOT REPORT
+-----------
+
+Report File    : C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\Panelised\Panelised DesignSpark\Lot 2\baseboard-r3-6panel (PCB - PLOT REPORT).txt
+Report Written : Thursday, July 28, 2011
+Project Path   : C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\Panelised\Panelised DesignSpark\Lot 2\Lot 2.prj
+Design Path    : C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\Panelised\Panelised DesignSpark\Lot 2\baseboard-r3-6panel.pcb
+Design Title   : 
+Created        : 27/07/2011 22:50:58
+Last Saved     : 27/07/2011 23:07:23
+Editing Time   : 82 min
+Units          : thou (precision 0)
+
+DEVICE SETTINGS
+---------------
+
+---------------
+Gerber Settings
+---------------
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    2.3 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+--------------
+Drill Settings
+--------------
+
+    Excellon Format 1
+    Format 2.3 absolute in mm.
+    No zero suppression.
+
+
+PLOTS OUTPUT
+------------
+
+Gerber Output
+-------------
+
+    "C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\Panelised\Panelised DesignSpark\Lot 2\Gerber\baseboard-r3-6panel - Top Silk.gbr"
+
+    Layers:
+    -------
+    Top Silk
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D22       Round 1
+    D96       Round 10
+    D103       Round 16
+    D105       Round 6
+    D106       Round 4
+    D107       Round 4
+    D111       Round 5
+    D112       Round 8
+    D115       Round 5
+    D116       Round 13
+    D117       Round 11
+    D118       Round 8
+    D119       Round 2
+    D120       Round 8
+    D121       Round 3
+    D122       Round 7
+    D123       Round 0
+    D124       Round 7
+    D126       Round 17
+    D127       Round 19
+    D128       Round 9
+    D129       Round 6
+
+
+Gerber Output
+-------------
+
+    "C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\Panelised\Panelised DesignSpark\Lot 2\Gerber\baseboard-r3-6panel - Top.gbr"
+
+    Layers:
+    -------
+    Top
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D96       Round 10
+    D97       Round 55
+    D99       Square 60
+    D100       Octagon 60
+    D101       Square 70
+    D102       Octagon 70
+    D103       Round 16
+    D111       Round 5
+    D120       Round 8
+    D150       Round 32
+    D151       Rectangle 43 X 39 Rotation 90
+    D152       Rectangle 43 X 39
+    D153       Rectangle 77 X 98
+    D154       Rectangle 63 X 71 Rotation 90
+    D155       Rectangle 100 X 98 Rotation 90
+    D156       Round 136
+    D157       Rectangle 64 X 86 Rotation 90
+    D158       Rectangle 24 X 87 Rotation 90
+    D159       Rectangle 26 X 80 Rotation 90
+    D160       Rectangle 24 X 59 Rotation 90
+    D161       Rectangle 48 X 88 Rotation 90
+    D162       Rectangle 142 X 87 Rotation 90
+    D163       Square 157
+    D164       Rectangle 51 X 59 Rotation 90
+    D165       Rectangle 46 X 63
+    D166       Round 51
+    D167       Round 59
+    D168       Rectangle 24 X 43 Rotation 90
+    D169       Rectangle 26 X 67
+    D170       Octagon 40
+    D171       Square 166
+
+
+Gerber Output
+-------------
+
+    "C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\Panelised\Panelised DesignSpark\Lot 2\Gerber\baseboard-r3-6panel - Top Mask.gbr"
+
+    Layers:
+    -------
+    Top Mask
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D10       Rectangle 49 X 45 Rotation 90
+    D11       Rectangle 49 X 45
+    D12       Rectangle 83 X 104
+    D13       Rectangle 69 X 77 Rotation 90
+    D14       Rectangle 106 X 104 Rotation 90
+    D15       Round 61
+    D16       Round 142
+    D17       Rectangle 70 X 92 Rotation 90
+    D18       Rectangle 30 X 93 Rotation 90
+    D19       Rectangle 32 X 86 Rotation 90
+    D70       Rectangle 30 X 65 Rotation 90
+    D71       Rectangle 54 X 94 Rotation 90
+    D20       Rectangle 148 X 93 Rotation 90
+    D21       Square 163
+    D22       Round 1
+    D23       Square 66
+    D24       Octagon 60
+    D25       Square 76
+    D26       Octagon 70
+    D27       Rectangle 57 X 65 Rotation 90
+    D28       Rectangle 52 X 69
+    D29       Round 57
+    D72       Round 65
+    D73       Rectangle 30 X 49 Rotation 90
+    D74       Rectangle 32 X 73
+    D75       Octagon 40
+    D76       Square 172
+
+
+Gerber Output
+-------------
+
+    "C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\Panelised\Panelised DesignSpark\Lot 2\Gerber\baseboard-r3-6panel - Top Paste.gbr"
+
+    Layers:
+    -------
+    Top Paste
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D22       Round 1
+    D77       Rectangle 37 X 33 Rotation 90
+    D78       Rectangle 37 X 33
+    D79       Rectangle 71 X 92
+    D80       Rectangle 57 X 65 Rotation 90
+    D81       Rectangle 94 X 92 Rotation 90
+    D82       Rectangle 58 X 80 Rotation 90
+    D83       Rectangle 18 X 81 Rotation 90
+    D84       Rectangle 20 X 74 Rotation 90
+    D85       Rectangle 18 X 53 Rotation 90
+    D86       Rectangle 42 X 82 Rotation 90
+    D87       Rectangle 136 X 81 Rotation 90
+    D88       Square 151
+    D89       Rectangle 45 X 53 Rotation 90
+    D90       Rectangle 40 X 57
+    D91       Round 45
+    D92       Round 53
+    D93       Rectangle 18 X 37 Rotation 90
+    D94       Rectangle 20 X 61
+
+
+Gerber Output
+-------------
+
+    "C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\Panelised\Panelised DesignSpark\Lot 2\Gerber\baseboard-r3-6panel - Bottom.gbr"
+
+    Layers:
+    -------
+    Bottom
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D95       Round 32
+    D96       Round 10
+    D97       Round 16
+    D98       Round 8
+    D99       Round 55
+    D100       Round 136
+    D101       Rectangle 64 X 86
+    D102       Square 60
+    D103       Octagon 60
+    D104       Square 70
+    D105       Octagon 70
+    D106       Rectangle 51 X 59 Rotation 90
+    D107       Octagon 40
+    D108       Square 166
+
+
+Gerber Output
+-------------
+
+    "C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\Panelised\Panelised DesignSpark\Lot 2\Gerber\baseboard-r3-6panel - Bot Silk.gbr"
+
+    Layers:
+    -------
+    Bot Silk
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D109       Round 8
+    D110       Round 5
+    D111       Round 6
+    D112       Round 4
+    D113       Round 4
+
+
+NC Drill Output
+---------------
+
+    Output:
+    -------
+    Plated Round Drill Holes
+    Plated Slots
+    Plated Board Outlines
+
+    "C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\Panelised\Panelised DesignSpark\Lot 2\Gerber\baseboard-r3-6panel - Drill Data - Through Hole.drl"
+
+
+    Tool             Size        Count  ID
+    --------------------------------------
+    T001        00.024 in          246   B
+    T002        00.035 in           96   F
+    T003        00.040 in          180   D
+    T004        00.126 in           24   I
+    T005        00.128 in           24   G
+    --------------------------------------
+    All                            570
+    --------------------------------------
+
+NC Drill Output
+---------------
+
+    Output:
+    -------
+    Unplated Round Drill Holes
+    Unplated Slots
+    Unplated Board Outlines
+
+    "C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\Panelised\Panelised DesignSpark\Lot 2\Gerber\baseboard-r3-6panel - Drill Data - Through Hole (Unplated).drl"
+
+
+    Tool             Size        Count  ID
+    --------------------------------------
+    T001        00.025 in            1   
+    --------------------------------------
+    All                              1
+    --------------------------------------
+
+Gerber Output
+-------------
+
+    "C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\Panelised\Panelised DesignSpark\Lot 2\Gerber\baseboard-r3-6panel - Drill Ident Drawing - Through Hole.gbr"
+
+    Layers:
+    -------
+
+    Drill Ident Drawing
+    -------------------
+
+    Drill     Plated    Size      Shape     ID        
+    --------------------------------------------------
+    24        Y         100       Round     B         
+    40        Y         100       Round     D         
+    35        Y         100       Round     F         
+    128       Y         100       Round     G         
+    126       Y         100       Round     I         
+    --------------------------------------------------
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D114       Round 100
+    D115       Round 5
+
+
+Gerber Output
+-------------
+
+    "C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\Panelised\Panelised DesignSpark\Lot 2\Gerber\baseboard-r3-6panel - Dimension.gbr"
+
+    Layers:
+    -------
+    Board Outlines
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D22       Round 1
+
+
+End Of Report.

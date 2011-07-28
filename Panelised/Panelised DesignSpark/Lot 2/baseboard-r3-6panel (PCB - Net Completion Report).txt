@@ -1,0 +1,16 @@
+Net Completion Report
+---------------------
+
+Report File    : C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\Panelised\Panelised DesignSpark\Lot 2\baseboard-r3-6panel (PCB - Net Completion Report).txt
+Report Written : Thursday, July 28, 2011
+Project Path   : C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\Panelised\Panelised DesignSpark\Lot 2\Lot 2.prj
+Design Path    : C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\Panelised\Panelised DesignSpark\Lot 2\baseboard-r3-6panel.pcb
+Design Title   : 
+Created        : 27/07/2011 22:50:58
+Last Saved     : 27/07/2011 23:07:23
+Editing Time   : 21 min
+Units          : thou (precision 0)
+
+
+No breaks found, all nets are fully routed.
+End Of Report.
