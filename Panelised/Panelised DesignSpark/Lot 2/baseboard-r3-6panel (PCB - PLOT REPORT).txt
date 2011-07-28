@@ -8,7 +8,7 @@ Design Path    : C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\Panelised\Pan
 Design Title   : 
 Created        : 27/07/2011 22:50:58
 Last Saved     : 27/07/2011 23:07:23
-Editing Time   : 82 min
+Editing Time   : 95 min
 Units          : thou (precision 0)
 
 DEVICE SETTINGS
@@ -37,6 +37,8 @@ Drill Settings
 
 PLOTS OUTPUT
 ------------
+    Plot Job: "C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\Panelised\Panelised DesignSpark\Lot 2\baseboard-r3-6panel.mop"
+
 
 Gerber Output
 -------------
@@ -51,26 +53,26 @@ Gerber Output
     -----------------------
     D22       Round 1
     D96       Round 10
-    D103       Round 16
-    D105       Round 6
-    D106       Round 4
-    D107       Round 4
-    D111       Round 5
-    D112       Round 8
+    D97       Round 16
+    D98       Round 8
+    D109       Round 8
+    D110       Round 5
+    D111       Round 6
+    D112       Round 4
+    D113       Round 4
     D115       Round 5
-    D116       Round 13
-    D117       Round 11
-    D118       Round 8
-    D119       Round 2
-    D120       Round 8
-    D121       Round 3
-    D122       Round 7
-    D123       Round 0
-    D124       Round 7
-    D126       Round 17
-    D127       Round 19
-    D128       Round 9
-    D129       Round 6
+    D116       Round 8
+    D117       Round 17
+    D118       Round 19
+    D119       Round 9
+    D120       Round 13
+    D121       Round 11
+    D122       Round 6
+    D123       Round 2
+    D124       Round 3
+    D125       Round 7
+    D126       Round 0
+    D127       Round 7
 
 
 Gerber Output
@@ -84,37 +86,37 @@ Gerber Output
 
     D-Code    Shape  (thou)
     -----------------------
+    D95       Round 32
     D96       Round 10
-    D97       Round 55
-    D99       Square 60
-    D100       Octagon 60
-    D101       Square 70
-    D102       Octagon 70
-    D103       Round 16
-    D111       Round 5
-    D120       Round 8
-    D150       Round 32
-    D151       Rectangle 43 X 39 Rotation 90
-    D152       Rectangle 43 X 39
-    D153       Rectangle 77 X 98
-    D154       Rectangle 63 X 71 Rotation 90
-    D155       Rectangle 100 X 98 Rotation 90
-    D156       Round 136
-    D157       Rectangle 64 X 86 Rotation 90
-    D158       Rectangle 24 X 87 Rotation 90
-    D159       Rectangle 26 X 80 Rotation 90
-    D160       Rectangle 24 X 59 Rotation 90
-    D161       Rectangle 48 X 88 Rotation 90
-    D162       Rectangle 142 X 87 Rotation 90
-    D163       Square 157
-    D164       Rectangle 51 X 59 Rotation 90
-    D165       Rectangle 46 X 63
-    D166       Round 51
-    D167       Round 59
-    D168       Rectangle 24 X 43 Rotation 90
-    D169       Rectangle 26 X 67
-    D170       Octagon 40
-    D171       Square 166
+    D97       Round 16
+    D98       Round 8
+    D99       Round 55
+    D100       Round 136
+    D102       Square 60
+    D103       Octagon 60
+    D104       Square 70
+    D105       Octagon 70
+    D106       Rectangle 51 X 59 Rotation 90
+    D107       Octagon 40
+    D108       Square 166
+    D115       Round 5
+    D128       Rectangle 43 X 39 Rotation 90
+    D129       Rectangle 43 X 39
+    D130       Rectangle 77 X 98
+    D131       Rectangle 63 X 71 Rotation 90
+    D132       Rectangle 100 X 98 Rotation 90
+    D133       Rectangle 64 X 86 Rotation 90
+    D134       Rectangle 24 X 87 Rotation 90
+    D135       Rectangle 26 X 80 Rotation 90
+    D136       Rectangle 24 X 59 Rotation 90
+    D137       Rectangle 48 X 88 Rotation 90
+    D138       Rectangle 142 X 87 Rotation 90
+    D139       Square 157
+    D140       Rectangle 46 X 63
+    D141       Round 51
+    D142       Round 59
+    D143       Rectangle 24 X 43 Rotation 90
+    D144       Rectangle 26 X 67
 
 
 Gerber Output
@@ -232,6 +234,29 @@ Gerber Output
     D111       Round 6
     D112       Round 4
     D113       Round 4
+
+
+Gerber Output
+-------------
+
+    "C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\Panelised\Panelised DesignSpark\Lot 2\Gerber\baseboard-r3-6panel - Bot Mask.gbr"
+
+    Layers:
+    -------
+    Bot Mask
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D15       Round 61
+    D16       Round 142
+    D23       Square 66
+    D24       Octagon 60
+    D25       Square 76
+    D26       Octagon 70
+    D27       Rectangle 57 X 65 Rotation 90
+    D75       Octagon 40
+    D76       Square 172
+    D145       Rectangle 70 X 92
 
 
 NC Drill Output
