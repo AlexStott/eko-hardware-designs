@@ -7,8 +7,8 @@ Project Path   : C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\Panelised\Pan
 Design Path    : C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\Panelised\Panelised DesignSpark\Lot 2\baseboard-r3-6panel.pcb
 Design Title   : 
 Created        : 27/07/2011 22:50:58
-Last Saved     : 27/07/2011 23:07:23
-Editing Time   : 95 min
+Last Saved     : 28/07/2011 00:26:40
+Editing Time   : 105 min
 Units          : thou (precision 0)
 
 DEVICE SETTINGS
@@ -157,38 +157,7 @@ Gerber Output
     D74       Rectangle 32 X 73
     D75       Octagon 40
     D76       Square 172
-
-
-Gerber Output
--------------
-
-    "C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\Panelised\Panelised DesignSpark\Lot 2\Gerber\baseboard-r3-6panel - Top Paste.gbr"
-
-    Layers:
-    -------
-    Top Paste
-
-    D-Code    Shape  (thou)
-    -----------------------
-    D22       Round 1
-    D77       Rectangle 37 X 33 Rotation 90
-    D78       Rectangle 37 X 33
-    D79       Rectangle 71 X 92
-    D80       Rectangle 57 X 65 Rotation 90
-    D81       Rectangle 94 X 92 Rotation 90
-    D82       Rectangle 58 X 80 Rotation 90
-    D83       Rectangle 18 X 81 Rotation 90
-    D84       Rectangle 20 X 74 Rotation 90
-    D85       Rectangle 18 X 53 Rotation 90
-    D86       Rectangle 42 X 82 Rotation 90
-    D87       Rectangle 136 X 81 Rotation 90
-    D88       Square 151
-    D89       Rectangle 45 X 53 Rotation 90
-    D90       Rectangle 40 X 57
-    D91       Round 45
-    D92       Round 53
-    D93       Rectangle 18 X 37 Rotation 90
-    D94       Rectangle 20 X 61
+    D115       Round 5
 
 
 Gerber Output
@@ -256,6 +225,7 @@ Gerber Output
     D27       Rectangle 57 X 65 Rotation 90
     D75       Octagon 40
     D76       Square 172
+    D115       Round 5
     D145       Rectangle 70 X 92
 
 
