@@ -1,14 +1,14 @@
 PLOT REPORT
 -----------
 
-Report File    : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\EKOBase (PCB - PLOT REPORT).txt
-Report Written : Sunday, May 29, 2011
-Project Path   : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\EKOBase.prj
-Design Path    : C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\EKOBase.pcb
+Report File    : C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\EKOBase\EKOBase (PCB - PLOT REPORT).txt
+Report Written : Monday, August 01, 2011
+Project Path   : C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\EKOBase\EKOBase.prj
+Design Path    : C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\EKOBase\EKOBase.pcb
 Design Title   : 
 Created        : 28/05/2011 14:42:59
-Last Saved     : 29/05/2011 18:57:04
-Editing Time   : 1286 min
+Last Saved     : 31/07/2011 23:47:38
+Editing Time   : 3080 min
 Units          : mm (precision 4)
 
 DEVICE SETTINGS
@@ -37,29 +37,13 @@ Drill Settings
 
 PLOTS OUTPUT
 ------------
-    Plot Job: "C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\EKOBase.mop"
+    Plot Job: "C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\EKOBase\EKOBase.mop"
 
 
 Gerber Output
 -------------
 
-    "C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\Gerber\EKOBase - Top Documentation.gbr"
-
-    Layers:
-    -------
-    Top Documentation
-    Board Outlines
-
-    D-Code    Shape  (thou)
-    -----------------------
-    D10       Round 1
-    D11       Round 5
-
-
-Gerber Output
--------------
-
-    "C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\Gerber\EKOBase - Top Silkscreen.gbr"
+    "C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\EKOBase\Gerber\EKOBase - Top Silkscreen.gbr"
 
     Layers:
     -------
@@ -67,29 +51,29 @@ Gerber Output
 
     D-Code    Shape  (thou)
     -----------------------
-    D10       Round 1
-    D11       Round 5
-    D12       Round 10
-    D13       Round 16
-    D14       Round 24
-    D15       Round 12
-    D16       Round 8
-    D17       Round 3
-    D18       Round 4
-    D19       Round 12
-    D70       Round 3
-    D71       Round 6
-    D20       Round 3
-    D21       Round 8
-    D22       Round 0
-    D23       Round 4
-    D24       Round 16
+    D22       Round 1
+    D96       Round 10
+    D97       Round 16
+    D98       Round 8
+    D111       Round 6
+    D113       Round 4
+    D115       Round 5
+    D124       Round 3
+    D146       Round 16
+    D147       Round 12
+    D148       Round 8
+    D149       Round 3
+    D150       Round 4
+    D151       Round 20
+    D152       Round 12
+    D153       Round 3
+    D154       Round 0
 
 
 Gerber Output
 -------------
 
-    "C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\Gerber\EKOBase - Top Copper.gbr"
+    "C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\EKOBase\Gerber\EKOBase - Top Copper.gbr"
 
     Layers:
     -------
@@ -97,52 +81,106 @@ Gerber Output
 
     D-Code    Shape  (thou)
     -----------------------
-    D12       Round 10
-    D14       Round 24
-    D16       Round 8
-    D25       Square 236
-    D26       Round 48
-    D27       Round 60
-    D28       Square 70
-    D29       Octagon 70
-    D72       Square 60
-    D73       Octagon 60
-    D74       Rectangle 22 X 78 Rotation 90
-    D75       Rectangle 16 X 36
-    D76       Rectangle 39 X 43
-    D77       Rectangle 27 X 39 Rotation 90
-    D78       Rectangle 161 X 163 Rotation 90
-    D79       Rectangle 51 X 60
-    D80       Rectangle 39 X 43 Rotation 90
-    D81       Rectangle 51 X 60 Rotation 90
-    D82       Oval 60 X 110 Rotation 90
-    D83       Rectangle 24 X 87
-    D84       Oval 60 X 110
-    D85       Rectangle 63 X 71 Rotation 90
-    D86       Rectangle 63 X 71
-    D87       Rectangle 70 X 93 Rotation 90
-    D88       Rectangle 70 X 93
-    D89       Round 55
-    D90       Round 160
-    D91       Rectangle 23 X 50 Rotation 90
-    D92       Rectangle 161 X 163
-    D93       Rectangle 43 X 82 Rotation 90
-    D94       Rectangle 105 X 132
-    D95       Rectangle 80 X 95
-    D96       Square 95
-    D97       Rectangle 24 X 60
-    D98       Round 86
-    D99       Round 56
-    D100       Round 30
-    D101       Round 15
-    D102       Round 18
-    D103       Round 50
+    D22       Round 1
+    D95       Round 32
+    D96       Round 10
+    D99       Round 55
+    D102       Square 60
+    D103       Octagon 60
+    D104       Square 70
+    D105       Octagon 70
+    D148       Round 8
+    D150       Round 0
+    D151       Square 236
+    D152       Round 60
+    D153       Rectangle 22 X 78 Rotation 90
+    D154       Rectangle 16 X 36
+    D155       Rectangle 39 X 43
+    D156       Rectangle 27 X 39 Rotation 90
+    D157       Rectangle 161 X 163 Rotation 90
+    D158       Rectangle 51 X 60
+    D159       Rectangle 39 X 43 Rotation 90
+    D160       Rectangle 51 X 60 Rotation 90
+    D161       Oval 60 X 110 Rotation 90
+    D162       Rectangle 24 X 87
+    D163       Oval 60 X 110
+    D164       Rectangle 63 X 71 Rotation 90
+    D165       Rectangle 63 X 71
+    D166       Rectangle 70 X 93
+    D167       Round 160
+    D168       Rectangle 161 X 163
+    D169       Rectangle 43 X 82 Rotation 90
+    D170       Rectangle 105 X 132
+    D171       Rectangle 80 X 95
+    D172       Square 95
+    D173       Rectangle 24 X 60
+    D174       Round 86
+    D175       Rectangle 18 X 39 Rotation 90
+    D176       Rectangle 80 X 95 Rotation 90
+    D177       Round 60
+    D178       Rectangle 17 X 69 Rotation 90
+    D179       Rectangle 47 X 169 Rotation 90
+    D180       Rectangle 47 X 79 Rotation 90
+    D181       Rectangle 83 X 94 Rotation 90
+    D182       Rectangle 102 X 114 Rotation 90
+    D183       Rectangle 51 X 75 Rotation 90
+    D184       Rectangle 55 X 77 Rotation 90
+    D185       Rectangle 83 X 87 Rotation 90
+    D186       Round 70
+    D187       Round 60
+    D188       Round 56
+    D189       Round 48
+    D190       Round 30
+    D191       Round 24
+    D192       Round 15
+    D193       Round 50
 
 
 Gerber Output
 -------------
 
-    "C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\Gerber\EKOBase - Top Solder Mask.gbr"
+    "C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\EKOBase\Gerber\EKOBase - Top Copper (Paste).gbr"
+
+    Layers:
+    -------
+    Top Copper
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D10       Rectangle 18 X 74 Rotation 90
+    D11       Rectangle 12 X 32
+    D12       Rectangle 35 X 39
+    D13       Rectangle 23 X 35 Rotation 90
+    D14       Rectangle 157 X 159 Rotation 90
+    D15       Rectangle 47 X 56
+    D16       Rectangle 35 X 39 Rotation 90
+    D17       Rectangle 47 X 56 Rotation 90
+    D18       Rectangle 20 X 83
+    D19       Rectangle 59 X 67 Rotation 90
+    D70       Rectangle 59 X 67
+    D71       Rectangle 66 X 89
+    D20       Rectangle 157 X 159
+    D21       Rectangle 39 X 78 Rotation 90
+    D22       Rectangle 101 X 128
+    D23       Rectangle 76 X 91
+    D24       Square 91
+    D25       Rectangle 20 X 56
+    D26       Rectangle 14 X 35 Rotation 90
+    D27       Rectangle 76 X 91 Rotation 90
+    D28       Rectangle 13 X 65 Rotation 90
+    D29       Rectangle 43 X 165 Rotation 90
+    D72       Rectangle 43 X 75 Rotation 90
+    D73       Rectangle 79 X 90 Rotation 90
+    D74       Rectangle 98 X 110 Rotation 90
+    D75       Rectangle 47 X 71 Rotation 90
+    D76       Rectangle 51 X 73 Rotation 90
+    D77       Rectangle 79 X 83 Rotation 90
+
+
+Gerber Output
+-------------
+
+    "C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\EKOBase\Gerber\EKOBase - Top Solder Mask.gbr"
 
     Layers:
     -------
@@ -150,46 +188,59 @@ Gerber Output
 
     D-Code    Shape  (thou)
     -----------------------
-    D16       Round 8
-    D104       Square 242
-    D105       Round 54
-    D106       Round 66
-    D107       Square 76
-    D108       Octagon 70
-    D109       Square 66
-    D110       Octagon 60
-    D111       Rectangle 28 X 84 Rotation 90
-    D112       Rectangle 22 X 42
-    D113       Rectangle 45 X 49
-    D114       Rectangle 33 X 45 Rotation 90
-    D115       Rectangle 167 X 169 Rotation 90
-    D116       Rectangle 57 X 66
-    D117       Rectangle 45 X 49 Rotation 90
-    D118       Rectangle 57 X 66 Rotation 90
-    D119       Oval 66 X 116 Rotation 90
-    D120       Rectangle 30 X 93
-    D121       Oval 66 X 116
-    D122       Rectangle 69 X 77 Rotation 90
-    D123       Rectangle 69 X 77
-    D124       Rectangle 76 X 99 Rotation 90
-    D125       Rectangle 76 X 99
-    D126       Round 61
-    D127       Round 166
-    D128       Rectangle 29 X 56 Rotation 90
-    D129       Rectangle 167 X 169
-    D130       Rectangle 49 X 88 Rotation 90
-    D131       Rectangle 111 X 138
-    D132       Rectangle 86 X 101
-    D133       Square 101
-    D134       Rectangle 30 X 66
-    D135       Round 92
-    D136       Round 62
+    D78       Square 242
+    D79       Round 8
+    D80       Round 66
+    D81       Square 76
+    D82       Octagon 70
+    D83       Square 66
+    D84       Octagon 60
+    D85       Rectangle 28 X 84 Rotation 90
+    D86       Rectangle 22 X 42
+    D87       Rectangle 45 X 49
+    D88       Rectangle 33 X 45 Rotation 90
+    D89       Rectangle 167 X 169 Rotation 90
+    D90       Rectangle 57 X 66
+    D91       Rectangle 45 X 49 Rotation 90
+    D92       Rectangle 57 X 66 Rotation 90
+    D93       Oval 66 X 116 Rotation 90
+    D94       Rectangle 30 X 93
+    D95       Oval 66 X 116
+    D96       Rectangle 69 X 77 Rotation 90
+    D97       Rectangle 69 X 77
+    D98       Rectangle 76 X 99
+    D99       Round 61
+    D100       Round 166
+    D101       Rectangle 167 X 169
+    D102       Rectangle 49 X 88 Rotation 90
+    D103       Rectangle 111 X 138
+    D104       Rectangle 86 X 101
+    D105       Square 101
+    D106       Rectangle 30 X 66
+    D107       Round 92
+    D108       Rectangle 24 X 45 Rotation 90
+    D109       Rectangle 86 X 101 Rotation 90
+    D110       Round 66
+    D111       Rectangle 23 X 75 Rotation 90
+    D112       Rectangle 53 X 175 Rotation 90
+    D113       Rectangle 53 X 85 Rotation 90
+    D114       Rectangle 89 X 100 Rotation 90
+    D115       Rectangle 108 X 120 Rotation 90
+    D116       Rectangle 57 X 81 Rotation 90
+    D117       Rectangle 61 X 83 Rotation 90
+    D118       Rectangle 89 X 93 Rotation 90
+    D119       Round 76
+    D120       Round 1
+    D121       Round 66
+    D122       Round 62
+    D123       Round 54
+    D124       Round 38
 
 
 Gerber Output
 -------------
 
-    "C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\Gerber\EKOBase - Bottom Copper.gbr"
+    "C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\EKOBase\Gerber\EKOBase - Bottom Copper.gbr"
 
     Layers:
     -------
@@ -197,35 +248,62 @@ Gerber Output
 
     D-Code    Shape  (thou)
     -----------------------
-    D12       Round 10
-    D14       Round 24
-    D16       Round 8
-    D25       Square 236
-    D26       Round 48
-    D27       Round 60
-    D28       Square 70
-    D29       Octagon 70
-    D72       Square 60
-    D73       Octagon 60
-    D82       Oval 60 X 110 Rotation 90
-    D84       Oval 60 X 110
-    D87       Rectangle 70 X 93 Rotation 90
-    D88       Rectangle 70 X 93
-    D89       Round 55
-    D90       Round 160
-    D98       Round 86
-    D99       Round 56
-    D100       Round 30
-    D101       Round 15
-    D103       Round 50
-    D137       Round 25
-    D138       Round 20
+    D79       Round 8
+    D106       Round 10
+    D107       Square 70
+    D108       Octagon 70
+    D109       Square 60
+    D110       Octagon 60
+    D111       Rectangle 70 X 93 Rotation 90
+    D112       Round 55
+    D113       Round 32
+    D114       Round 20
+    D150       Round 0
+    D151       Square 236
+    D152       Round 60
+    D155       Rectangle 39 X 43
+    D158       Rectangle 51 X 60
+    D159       Rectangle 39 X 43 Rotation 90
+    D160       Rectangle 51 X 60 Rotation 90
+    D161       Oval 60 X 110 Rotation 90
+    D163       Oval 60 X 110
+    D165       Rectangle 63 X 71
+    D167       Round 160
+    D174       Round 86
+    D177       Round 60
+    D186       Round 70
+    D187       Round 60
+    D188       Round 56
+    D189       Round 48
+    D190       Round 30
+    D191       Round 24
+    D192       Round 15
+    D193       Round 50
 
 
 Gerber Output
 -------------
 
-    "C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\Gerber\EKOBase - Bottom Silkscreen.gbr"
+    "C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\EKOBase\Gerber\EKOBase - Bottom Copper (Paste).gbr"
+
+    Layers:
+    -------
+    Bottom Copper
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D10       Rectangle 66 X 89 Rotation 90
+    D11       Rectangle 59 X 67
+    D12       Rectangle 47 X 56
+    D13       Rectangle 47 X 56 Rotation 90
+    D14       Rectangle 35 X 39
+    D15       Rectangle 35 X 39 Rotation 90
+
+
+Gerber Output
+-------------
+
+    "C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\EKOBase\Gerber\EKOBase - Bottom Silkscreen.gbr"
 
     Layers:
     -------
@@ -233,30 +311,16 @@ Gerber Output
 
     D-Code    Shape  (thou)
     -----------------------
-    D11       Round 5
-    D16       Round 8
-    D137       Round 25
+    D16       Round 25
+    D17       Round 8
+    D18       Round 5
+    D19       Round 8
 
 
 Gerber Output
 -------------
 
-    "C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\Gerber\EKOBase - Bottom Documentation.gbr"
-
-    Layers:
-    -------
-    Bottom Documentation
-    Board Outlines
-
-    D-Code    Shape  (thou)
-    -----------------------
-    D11       Round 5
-
-
-Gerber Output
--------------
-
-    "C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\Gerber\EKOBase - Bottom Solder Mask.gbr"
+    "C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\EKOBase\Gerber\EKOBase - Bottom Solder Mask.gbr"
 
     Layers:
     -------
@@ -264,22 +328,30 @@ Gerber Output
 
     D-Code    Shape  (thou)
     -----------------------
-    D16       Round 8
-    D104       Square 242
-    D105       Round 54
-    D106       Round 66
-    D107       Square 76
-    D108       Octagon 70
-    D109       Square 66
-    D110       Octagon 60
-    D119       Oval 66 X 116 Rotation 90
-    D121       Oval 66 X 116
-    D124       Rectangle 76 X 99 Rotation 90
-    D125       Rectangle 76 X 99
-    D126       Round 61
-    D127       Round 166
-    D135       Round 92
-    D136       Round 62
+    D17       Round 8
+    D70       Square 242
+    D71       Round 66
+    D20       Square 76
+    D21       Octagon 70
+    D22       Square 66
+    D23       Octagon 60
+    D24       Rectangle 76 X 99 Rotation 90
+    D25       Oval 66 X 116 Rotation 90
+    D26       Oval 66 X 116
+    D27       Round 61
+    D28       Round 166
+    D29       Round 92
+    D72       Rectangle 69 X 77
+    D73       Round 66
+    D74       Round 76
+    D75       Rectangle 57 X 66
+    D76       Rectangle 57 X 66 Rotation 90
+    D77       Round 66
+    D78       Rectangle 45 X 49
+    D79       Rectangle 45 X 49 Rotation 90
+    D80       Round 62
+    D81       Round 54
+    D82       Round 38
 
 
 NC Drill Output
@@ -291,21 +363,24 @@ NC Drill Output
     Plated Slots
     Plated Board Outlines
 
-    "C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\Gerber\EKOBase - Drill Data - Through Hole.drl"
+    "C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\EKOBase\Gerber\EKOBase - Drill Data - Through Hole.drl"
 
 
     Tool             Size        Count  ID
     --------------------------------------
-    T001        00.024 in            8   B
-    T002        00.030 in           28   C
-    T003        00.032 in           72   E
-    T004        00.035 in           16   F
-    T005        00.040 in           18   D
-    T006        00.062 in            4   H
-    T007        00.128 in            4   G
-    T008        00.154 in            8   A
+    T001        00.016 in           49   L
+    T002        00.024 in           15   B
+    T003        00.030 in           28   C
+    T004        00.032 in           94   E
+    T005        00.035 in            2   K
+    T006        00.035 in           24   F
+    T007        00.040 in           10   D
+    T008        00.055 in            2   J
+    T009        00.062 in            4   H
+    T010        00.128 in            6   G
+    T011        00.154 in            8   A
     --------------------------------------
-    All                            158
+    All                            242
     --------------------------------------
 
 NC Drill Output
@@ -317,7 +392,7 @@ NC Drill Output
     Unplated Slots
     Unplated Board Outlines
 
-    "C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\Gerber\EKOBase - Drill Data - Through Hole (Unplated).drl"
+    "C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\EKOBase\Gerber\EKOBase - Drill Data - Through Hole (Unplated).drl"
 
 
     Tool             Size        Count  ID
@@ -330,7 +405,7 @@ NC Drill Output
 Gerber Output
 -------------
 
-    "C:\Users\ca508\Dropbox\DesignSpark Projects\EKOBase\Gerber\EKOBase - Drill Ident Drawing - Through Hole.gbr"
+    "C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\EKOBase\Gerber\EKOBase - Drill Ident Drawing - Through Hole.gbr"
 
     Layers:
     -------
@@ -348,12 +423,29 @@ Gerber Output
     35        Y         100       Round     F         
     128       Y         100       Round     G         
     62        Y         100       Round     H         
+    55        Y         100       Round     J         
+    35        Y         100       Round     K         
+    16        Y         100       Round     L         
     --------------------------------------------------
 
     D-Code    Shape  (thou)
     -----------------------
-    D11       Round 5
-    D139       Round 100
+    D18       Round 5
+    D83       Round 100
+
+
+Gerber Output
+-------------
+
+    "C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\EKOBase\Gerber\EKOBase - Board Outline.gbr"
+
+    Layers:
+    -------
+    Board Outlines
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D18       Round 5
 
 
 End Of Report.

@@ -2,13 +2,13 @@ Pour Copper Report
 ------------------
 
 Report File    : C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\EKOBase\EKOBase (PCB - Pour Copper Report).txt
-Report Written : Friday, July 29, 2011
+Report Written : Monday, August 01, 2011
 Project Path   : C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\EKOBase\EKOBase.prj
 Design Path    : C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\EKOBase\EKOBase.pcb
 Design Title   : 
 Created        : 28/05/2011 14:42:59
-Last Saved     : 29/07/2011 18:27:35
-Editing Time   : 2942 min
+Last Saved     : 31/07/2011 23:43:01
+Editing Time   : 3076 min
 Units          : mm (precision 4)
 
 

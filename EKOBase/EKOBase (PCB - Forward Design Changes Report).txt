@@ -2,14 +2,16 @@ Forward Design Changes Report
 -----------------------------
 
 Report File    : C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\EKOBase\EKOBase (PCB - Forward Design Changes Report).txt
-Report Written : Friday, July 29, 2011
+Report Written : Monday, August 01, 2011
 Project Path   : C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\EKOBase\EKOBase.prj
 Design Path    : C:\Users\ca508\Dropbox\eagle\eko-hardware-designs\EKOBase\EKOBase.pcb
 Design Title   : 
 Created        : 28/05/2011 14:42:59
-Last Saved     : 29/07/2011 18:06:33
-Editing Time   : 2916 min
+Last Saved     : 31/07/2011 23:12:49
+Editing Time   : 3044 min
 Units          : mm (precision 4)
+
+Ignoring PCB only pad X1.10 on net "0V"
 
 The designs are the same, so no design changes to forward.
 
